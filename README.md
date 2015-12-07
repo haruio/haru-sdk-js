@@ -1,6 +1,6 @@
-# Web app
+# Haru Javascript SDK (coming soon)
 
-Reasonable starting point for building a web app.
+BaaS Javascript SDK 
 
 ## Features
 
@@ -35,6 +35,3 @@ All scripts are run with `npm run [script]`, for example: `npm run test`.
 
 See what each script does by looking at the `scripts` section in [package.json](./package.json).
 
-## Linting
-
-Use [standard](https://github.com/feross/standard) for linting. It has [editor plugins](https://github.com/feross/standard#editor-plugins).
